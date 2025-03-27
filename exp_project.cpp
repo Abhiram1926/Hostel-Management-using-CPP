@@ -2,7 +2,7 @@
 // k.shyam sai manohar AP21110011197
 // M.satya priya AP21110011198
 // k.chaitanya AP21110011199
-// T.Nikhil AP21110011200
+// Y.Abhiramgandhi AP21110010373
 
 #include<bits/stdc++.h>
 #include<iostream>
